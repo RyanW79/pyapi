@@ -24,7 +24,7 @@ def main():
     # custlist.keys()
     vendordict.get('juniper')
     #custlist.get('umbrella corporation')
-    # custlist.update('nsx')
+    #custlist.update('nx')
     vendordict.update({'cisco': False})
     #vendordict.sort()
 
